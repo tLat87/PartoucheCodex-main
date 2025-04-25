@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.partbest.my
       vars:
-        APP_STORE_APPLE_ID: 6742177832 ---
+        APP_STORE_APPLE_ID: 6745090302
         BUNDLE_ID: "com.partbest.my"
         XCODE_WORKSPACE: "PartoucheCodex.xcworkspace"
         XCODE_SCHEME: "PartoucheCodex"
